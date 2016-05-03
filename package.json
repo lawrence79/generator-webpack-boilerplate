@@ -1,5 +1,5 @@
 {
-  "name": "generator-webpack-test",
+  "name": "generator-webpack-boilerplate",
   "version": "0.0.0",
   "description": "a simple webpack generator",
   "homepage": "",
@@ -41,6 +41,6 @@
       "mocha": true
     }
   },
-  "repository": "lawrence79/generator-webpack-test",
+  "repository": "lawrence79/generator-webpack-boilerplate",
   "license": "MIT"
 }
