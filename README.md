@@ -15,6 +15,10 @@ yo webpack-boilerplate
 
 ```
 
-and follow the instructions.
+follow the instructions then run
+```
+npm start
+
+```
 
 this is a wip.
